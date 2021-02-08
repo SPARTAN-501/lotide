@@ -1,4 +1,5 @@
-const head = require('../assertEqual');
+const assertEqual = require('../assertEqual');
+const head = require('../head');
 
 // TEST CODE
 assertEqual("Lighthouse Labs", "Bootcamp");
